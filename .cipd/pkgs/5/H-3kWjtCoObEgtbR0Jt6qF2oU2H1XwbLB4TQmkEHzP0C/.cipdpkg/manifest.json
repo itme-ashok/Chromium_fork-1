@@ -1,0 +1,18 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/tools/result_adapter/mac-amd64",
+  "version_file": ".versions/result_adapter.cipd_version",
+  "files": [
+    {
+      "name": "result_adapter",
+      "size": 16048228,
+      "executable": true,
+      "hash": "4c1o-TAmMfaTI2-txS3hNZjdCvtP9u5itxpDxiRcPUAC"
+    },
+    {
+      "name": ".versions/result_adapter.cipd_version",
+      "size": 125,
+      "hash": "PI7miptuFy6PRGoGbAxjOfxGWUmuUHMvQNFWs2Q5mowC"
+    }
+  ]
+}
